@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+	version="5.1"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:xi="http://www.w3.org/2001/XInclude"
+	xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/TEI-P5/1.7/tei-p5-e-codices_1.7.xsd"
+	xml:lang="deu"
+	xml:id="eCod_fmb-cb-0004"
+	xml:base="http://www.e-codices.unifr.ch/en/description/fmb/cb-0004">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title><persName role="author" key="pnd_100943764">Galterivs Anglicus</persName>, Fabulae</title>
+			</titleStmt>
+			<editionStmt>
+				<edition>Elektronische Version nach TEI P5.1</edition>
+				<respStmt>
+					<resp>Konvertierung nach TEI: <persName>Maria Widmer</persName>
+						<date when="2013-08-20">20.08.2013</date>
+					</resp>
+					<name>e-codices - Virtual Manuscript Library of Switzerland</name>
+				</respStmt>
+			</editionStmt>
+			<publicationStmt>
+				<publisher>e-codices - Virtual Manuscript Library of Switzerland</publisher>
+				<availability status="restricted" n="cc-by">
+					<licence target="http://creativecommons.org/licenses/by/3.0/">
+						<p>Creative Commons Attribution 3.0 Unported (CC BY 3.0)</p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>PDF vorhanden</bibl>
+				<msDesc xml:id="fmb-cb-0004" xml:lang="fra">
+					<msIdentifier>
+						<settlement>Cologny</settlement>
+						<repository>Fondation Martin Bodmer</repository>
+						<idno>Cod. Bodmer 4</idno>
+					</msIdentifier>
+					<head>
+						<title><persName role="author" key="pnd_100943764">Galterivs Anglicus</persName>, Fabulae</title>
+						<origDate notBefore="1300" notAfter="1399">XIVe s.</origDate>
+						<secFol><locus from="2r">f. 2</locus>: // Ecce natant<gap reason="sampling"/></secFol>
+					</head>
+					<msContents>
+						<textLang mainLang="lat" otherLangs="fra"/>
+						<msItem xml:lang="fra">
+							<locus from="V1r" to="V1v">f. I-Iv</locus>
+							<note>et [<locus from="24r" to="24v">24-24v</locus>]</note>
+							<title>Livre de la Genèse</title>
+							<note>texte français avec commentaire (fragments ). Voir <bibl>Bibliotheca Bodmeriana. Manuscrits français du moyen âge. Catalogue établi par F. <hi rend="small-caps">Vielliard</hi>, Cologny-Genève, 1975, p. 171-172.</bibl></note>
+						</msItem>
+						<msItem xml:lang="lat">
+							<locus from="1r" to="23r">f. 1-23</locus>
+							<author key="pnd_100943764">Galterivs Anglicus</author>
+							<title>Fabulae</title>
+							<note>L'ordre des fables non numérotées, dont quelques-unes manquent, est différent de celui de l'éd. de J. Bastin; chacune d'elle est suivie de la Moralitas.</note>
+							<rubric><sic>Incpit</sic> liber Esopi.</rubric>
+							<msItem><note>(prol.)</note>
+							<incipit rend="dots-after">Vt iuuet et prosit conatur pagina presens</incipit>
+							<note>(12 v.).</note></msItem>
+							<msItem>
+								<note>(Fabulae)</note>
+								<rubric>De gallo et iaspide.</rubric>
+								<incipit rend="dots-after">Dvm rigido fodit ore fimum dum <sic>quericat</sic> escam</incipit>
+								<note>(Fab. I), suivie des Fab. II-XVIII, XXIV-XXV, LIX, XIX, XXI-XXII, XX, XXIII, XXVI-XXXIII, LX, XXXIV-XLII, XLV-XLVI, XLIII-XLIV, LXV-LXVII, XLVIII-LV, LVIII, LXVIII, LVI-LVII.</note>
+								<msItem>
+									<locus from="4v">f. 4v</locus>
+									<note>addition de 2 vers à la fin de la Fab. XIV:</note>
+									<quote>Inge minui <note>(sic, pour: «Ingenium»)</note> uires superat prudentia summa est Credere prudenti lingua ministrat necis.</quote>
+									<bibl>(cf., pour les premiers mots, H. <hi rend="small-caps">Walther</hi>, Proverbia Sententiaeque latinitatis medii aevi, Göttingen, 2, 1964, n° 12383).</bibl>
+								</msItem>
+								<explicit rend="dots-before">Cautius ut uulnus exiciale ferat. § Cuius eges semper rem nulli tradere debes Blanditie plus quam dira uenena nocent.</explicit>
+								<finalRubric>Explicit liber Esopi. deo gratias. AmeN.</finalRubric>
+								<note>(Fab. LVII, suivie des deux vers publiés en note par <bibl>J. <hi rend="small-caps">Bastin</hi>, éd. cit infra, p. 53</bibl>).</note>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc form="codex">
+							<supportDesc material="chart">
+								<support>Papier (filigrane peu visible sauf au <locus from="21r">f. 21</locus> : <watermark>mont</watermark>, var. <hi rend="small-caps">Briquet</hi> <unclear><ref type="crossRef">11652</ref></unclear>), sauf <locus from="V1r">f. I</locus> et [<locus from="N1r">24</locus>] en parchemin, fragments de la fin du <date>XIIIe s</date>. remployés comme feuillets de garde.</support>
+								<extent>
+									<measure type="leavesCount" n="II + 23 + I">II + 23 ff. + f. [24]</measure>
+									<measure type="pageDimensions" n="21.7 x 15.4 cm">217 x 154 mm</measure>
+								</extent>
+								<foliation>Non numéroté (<locus from="V2v">f. IIv</locus> et <locus from="23v">23v</locus> blancs)</foliation>
+								<collation>Cahiers: <locus from="V2r">f. II</locus>, <locus from="1r" to="4v">1-4</locus>: <term>quinion</term> avec <catchwords>réclame</catchwords>, <locus from="10r" to="17v">f. 10-17</locus>: <term>quaternion</term> et
+									<locus from="18r" to="23v">f. 18-23</locus>: <term>ternion</term>, sans <catchwords>réclames</catchwords>. Réglure à la mine de plomb.</collation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1" writtenLines="24">Justification: <measure type="written">145-150 x 110 mm</measure>, 24 lignes à la page.</layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc n="1">
+							<handNote script="gotica"><locus from="1r" to="23r">f. 1-23</locus>, écriture gothique arrondie, une main, </handNote>
+						</handDesc>
+						<decoDesc>
+							<decoNote type="initial">Titres rubriqués; au <locus from="1r">f. 1</locus> grande initiale bleue ajourée de blanc ornée de dessins filigranés rouges et bleus; autres initiales bleues, à filigranes rouges seulement jusqu'au <locus from="11r">f. 11</locus>, et initiales rouges, à filigranes bleus seulement au <locus from="1r">f. 1</locus>; initiales des vers rehaussées de jaune.</decoNote>
+						</decoDesc>
+						<additions>Titre du <date>XVIIIe s.</date> <locus from="V2r">au f. II</locus>: <quote>Rufi Festi Avieni Fabulae</quote>.</additions>
+						<bindingDesc>
+							<binding>
+								<p><locus from="Vorderseite">Ancienne</locus> sur ais de bois, <locus from="Buchrücken">dos</locus> de cuir marron épais recouvrant en partie les plats; trace d'une attache de tissu vert cloutée sur le <locus from="Vorderseite">plat supérieur</locus>.</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history>
+						<origin><p>Italienne, au <locus from="2r">f. 2</locus>  les premières lignes du texte sont accompagnées en interligne d'une traduction italienne: <quote>ecote si nodano<gap reason="sampling"/>, quel tira, quela tira, quela strapoza</quote>, ligne 5: <quote>quela medesima paura</quote>, etc.</p></origin>
+						<acquisition>Acquis par <persName role="former_possessor" key="pnd_116216387">Martin Bodmer</persName> en <date>1963</date> chez le libraire <persName role="seller" key="pnd_120146894">B. Rosenthal, <placeName>New York</placeName></persName>.</acquisition>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<bibl><persName>Pellegrin Elisabeth</persName>, Manuscrits Latins de la Bodmeriana, Cologny-Genève <date>1982</date>, pp. 13-14.</bibl>
+								</source>
+							</recordHist>
+						</adminInfo>
+						<listBibl>
+							<bibl>éd. L. <hi rend="small-caps">Hervieux</hi>, Les fabulistes latins…, Phèdre et ses anciens imitateurs…, II, Paris, 1884, p. 384-418.</bibl>
+							<bibl>K. <hi rend="small-caps">Mc. Kenzie</hi> et W. <hi rend="small-caps">Oldfather</hi>, Ysopet-Avionnet: the latin and french texts (Univ. of Illinois studies in language and literature, V, 4), Univ. of Illinois, 1919, p. 49-207.</bibl>
+							<bibl>J. <hi rend="small-caps">Bastin</hi>, Recueil général des Isopets, Paris, II, 1930, p. 4-66.</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<!--
+		<revisionDesc>
+			<change who="" when=""></change>
+		</revisionDesc>
+		-->
+	</teiHeader>
+	<text>
+		<body>
+			<p></p>
+		</body>
+	</text>
+</TEI>
