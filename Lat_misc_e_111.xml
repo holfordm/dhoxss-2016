@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>MS. Lat. misc. e. 111</title>
+            <title type="collection">MSS. Lat. misc. (Latin miscellaneous)</title>
+            
+         </titleStmt>
+        
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <pubPlace>Oxford</pubPlace>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="bod-MS._Lat._misc._e._111" xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>University of Oxford</institution>
+                  <repository>Bodleian Library</repository>
+                  <idno type="shelfmark">MS. Lat. misc. e. 111</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <author ref="http://viaf.org/viaf/286011503">
+                        John Buridan
+                     </author>
+                     <title>Quaestiones on
+				  Aristotle, Physics</title>
+                     <note>Here anon. and without title. An 18th cent. hand has written on fol.1 ‘Rogeri Baconis Commentaria’. Bk.II beg. fol.62v, III fol.87, IV fol.121, V fol.151, VI fol.161v, VII fol.174, VIII fol.186v. Breaks off incomplete in VIII q.8. For manuscripts and editions see <bibl>Faral, <title>Archives</title> 15 (1946), 7–16.</bibl></note>
+                     <incipit>Circa phisicorum queritur primo utrum scientia naturalis sit scientia de omnibus rebus</incipit>
+                     <textLang mainLang="la">Latin</textLang>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p><secFol>Sit hec</secFol></p>
+                  <objectDesc form="codex">
+                     <supportDesc material="chart">
+                        <support>paper<watermark>snake <note>cf. <bibl>Briquet 12106</bibl></note></watermark>
+                           <watermark>letter P with cross <note>cf. <bibl>Briquet 8462, 8465, 8467</bibl></note></watermark>
+                           <watermark>dog <note>cf. <bibl>Briquet 3607–8</bibl></note></watermark>
+                           <watermark>steer's head <note>closest to <bibl>Briquet 14223, 14228, 14232</bibl></note></watermark>
+                           <watermark>anchor <note>cf. <bibl>Briquet 350–1</bibl></note></watermark>
+                           <watermark>unicorn <note>not close to types in Briquet</note></watermark>
+                        </support>
+                        <extent>ii + 196 leaves <dimensions type="leaf" unit="mm">
+                              <height>215</height>
+                              <width>145</width>
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              <height max="165" min="155">155-65</height>
+                              <width min="100" max="110">100-10</width>
+                           </dimensions>
+                        </extent>
+                        <foliation>Medieval foliation</foliation>
+                        <collation><formula>i–vii(12), viii(12) (10 torn out), ix–xii(12), xiii(6), xiv(12), xv(14) (10–14 cancelled), xvi(12), xvii(12) (12 lost)</formula> <signatures>quires numbered in roman numerals</signatures>
+                          
+                        </collation>
+                        <condition>fol. 50 is torn, and the top of the right hand edge of the text is damaged from fol. 186 to end</condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout writtenLines="35 48" columns="2">2 cols. of 35–37, 48 lines, frame ruled in ink</layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc hands="2">
+                     <handNote>In two small current hands, fol.1-17va, 17vb-end</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote>Penwork initials in red and brown, some infilled with flowers or
+				figures.
+                     </decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding notAfter="1899" notBefore="1800">
+                        <p>19th cent. English half calf binding.</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notAfter="1499" notBefore="1400">15th century</origDate>
+                     <origPlace>French (?)</origPlace>
+                  </origin>
+                  <provenance>‘<name type="person">
+                        <persName>Edward Langford</persName>
+                     </name> was 18 years ould when Kinge Denmarke came to Ingland, <date when="1611">1611</date>’ (fol.138)</provenance>
+                  <provenance>‘<name type="person">
+                        <persName>Edward Powell</persName>
+                     </name>’, <date notBefore="1600" notAfter="1699">17th cent.</date> (fol.144)</provenance>
+                  <provenance>Later in the library of <name type="person"
+                           role="formerOwner"
+                           ref="http://viaf.org/viaf/202392039">
+                        <persName>B. Boncompagni</persName>
+                     </name>, no.198 in the Catalogue by Narducci, Rome <date when="1892">1892</date>.</provenance>
+                  <acquisition>Bought, <date when="1967">1967</date></acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>Typescript description by Bodleian Library staff, c. 1967</source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>
